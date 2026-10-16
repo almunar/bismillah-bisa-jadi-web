@@ -1,0 +1,29 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/0khpwxh9gztzl.js"
+4:"/_next/static/chunks/21xxhxq1mwo_h.js"
+5:I[39756,["$3","$4"],"default"]
+6:I[37457,["$3","$4"],"default"]
+b:"/_next/static/chunks/103k54s5hnthf.js"
+c:I[22016,["$3","$4","$b"],""]
+d:I[5014,["$3","$4","$b"],"default"]
+e:I[97367,["$3","$4"],"OutletBoundary"]
+f:"$Sreact.suspense"
+12:"ViewportBoundary"
+13:I[97367,["$3","$4"],"$12"]
+14:"MetadataBoundary"
+15:I[97367,["$3","$4"],"$14"]
+16:I[27201,["$3","$4"],"IconMark"]
+8:X
+8:C
+9:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","section",null,{"className":"flex min-h-[80svh] items-center bg-charcoal pt-28 text-paper","children":["$","div",null,{"className":"mx-auto w-full max-w-7xl px-5 md:px-8","children":[["$","p",null,{"className":"eyebrow text-sand","children":"404"}],["$","h1",null,{"className":"mt-5 max-w-2xl font-serif text-4xl leading-tight md:text-6xl","children":"This page could not be found."}],["$","div",null,{"className":"mt-10 flex flex-col gap-3 sm:flex-row","children":[["$","$Lc",null,{"href":"/","className":"group inline-flex min-h-12 items-center justify-center gap-3 rounded-sm px-6 text-sm font-medium tracking-wide transition-all duration-300 active:scale-[0.98] focus-visible:outline-2 focus-visible:outline-offset-2 bg-paper text-charcoal hover:bg-sand focus-visible:outline-paper","children":["$undefined",["$","span",null,{"children":"Back to Home"}],["$","$Ld",null,{"icon":{"name":"arrow-up-right","size":24,"node":[["path",{"d":"M7 7h10v10","key":"1tivn9"}],["path",{"d":"M7 17 17 7","key":"1vkiza"}]]},"className":"size-4 transition-transform duration-300 group-hover:translate-x-0.5 group-hover:-translate-y-0.5","aria-hidden":"true"}]]}],["$","$Lc",null,{"href":"/products","className":"group inline-flex min-h-12 items-center justify-center gap-3 rounded-sm px-6 text-sm font-medium tracking-wide transition-all duration-300 active:scale-[0.98] focus-visible:outline-2 focus-visible:outline-offset-2 border border-paper/30 text-paper hover:border-paper hover:bg-paper/5 focus-visible:outline-paper","children":["$undefined",["$","span",null,{"children":"View Products"}],["$","$Ld",null,{"icon":"$a:0:1:d:r:props:children:0:props:children:props:children:2:props:children:0:props:children:2:props:icon","className":"size-4 transition-transform duration-300 group-hover:translate-x-0.5 group-hover:-translate-y-0.5","aria-hidden":"true"}]]}]]}]]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/103k54s5hnthf.js","async":true}]],["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}],"p":"$@11","v":null,"s":"$9"}}]]
+1:[["children",{"s":"/_not-found","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L13",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#151412"}],["$","meta","3",{"name":"color-scheme","content":"light"}]]}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Munar Briquette Trading | Indonesian Charcoal Sourcing for International Buyers"}],["$","meta","1",{"name":"description","content":"Source coconut shell charcoal briquettes and selected Indonesian charcoal products through an independent Indonesia-based B2B sourcing partner."}],["$","meta","2",{"name":"application-name","content":"Munar Briquette Trading"}],["$","meta","3",{"name":"author","content":"Padlan Al Munar"}],["$","link","4",{"rel":"canonical","href":"https://munarbriquette.com/"}],["$","meta","5",{"property":"og:title","content":"Munar Briquette Trading | Indonesian Charcoal Sourcing for International Buyers"}],["$","meta","6",{"property":"og:description","content":"Source coconut shell charcoal briquettes and selected Indonesian charcoal products through an independent Indonesia-based B2B sourcing partner."}],["$","meta","7",{"property":"og:url","content":"https://munarbriquette.com/"}],["$","meta","8",{"property":"og:site_name","content":"Munar Briquette Trading"}],["$","meta","9",{"property":"og:locale","content":"en_US"}],["$","meta","10",{"property":"og:image","content":"https://munarbriquette.com/images/hero-charcoal.png"}],["$","meta","11",{"property":"og:image:width","content":"1376"}],["$","meta","12",{"property":"og:image:height","content":"768"}],["$","meta","13",{"property":"og:image:alt","content":"Coconut shell charcoal briquettes"}],["$","meta","14",{"property":"og:type","content":"website"}],["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","16",{"name":"twitter:title","content":"Munar Briquette Trading | Indonesian Charcoal Sourcing for International Buyers"}],["$","meta","17",{"name":"twitter:description","content":"Source coconut shell charcoal briquettes and selected Indonesian charcoal products through an independent Indonesia-based B2B sourcing partner."}],["$","meta","18",{"name":"twitter:image","content":"https://munarbriquette.com/images/hero-charcoal.png"}],["$","link","19",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","$L16","20",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@17","v":null,"s":"$9"}},"a":"$@18","u":"$@19","b":"q5imjs3tngidO_wD2VP96"}
+10:null
+19:true
+9:300
+9:C
+18:0
+7:"$undefined"
+17:"$undefined"
+11:"$undefined"
