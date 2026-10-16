@@ -9,8 +9,8 @@ export const site = {
   whatsappDisplay: '+62 831-7424-0557',
   whatsappNumber: '6283174240557',
   whatsappUrl: 'https://wa.me/6283174240557',
-  instagramUrl: 'https://www.instagram.com/padlanmunarbriquette',
-  linkedinUrl: 'https://www.linkedin.com/in/padlan-munar-briquette-8a87b8370/',
+  instagramUrl: 'https://www.instagram.com/padlan_munar/',
+  linkedinUrl: 'https://www.linkedin.com/in/padlan-al-munar-8a87b8370/',
   title: 'Munar Briquette Trading | Indonesian Charcoal Sourcing for International Buyers',
   description:
     'Source coconut shell charcoal briquettes and selected Indonesian charcoal products through an independent Indonesia-based B2B sourcing partner.',
